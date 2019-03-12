@@ -1,0 +1,6 @@
+<section>
+  <h2>Products</h2>
+  <div fxLayout="row wrap" fxLayoutGap=".5em" fxLayoutAlign="flex-start">
+    <app-product *ngFor="let item of list" [product]="item"></app-product>
+  </div>
+</section>

@@ -1,0 +1,5 @@
+[
+  { "position": 1, "name": "Ades Durazno", "price": 14.50, "quantity": 1 },
+  { "position": 2, "name": "Ades Natural", "price": 14.50, "quantity": 1 },
+  { "position": 3, "name": "Leche Lala", "price": 15.0, "quantity": 2 }
+]

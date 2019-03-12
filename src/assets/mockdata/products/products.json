@@ -1,0 +1,10 @@
+[
+  {"sku": "sku-001", "category": "Juice", "name": "Ades Durazno", "price": 14.50, "img_url": "../assets/products/sku-001.jpg"},
+  {"sku": "sku-002", "category": "Juice", "name": "Ades Natural", "price": 14.50, "img_url": "../assets/products/sku-002.jpg"},
+  {"sku": "sku-003", "category": "Dairy", "name": "Leche Lala", "price": 15.00, "img_url": "../assets/products/sku-003.jpg"},
+  {"sku": "sku-004", "category": "Knorr", "name": "Knorr Caldo de Pollo", "price": 3.50, "img_url": "../assets/products/sku-004.jpg"},
+  {"sku": "sku-005", "category": "Knorr", "name": "Knorr Tomate", "price": 3.50, "img_url": "../assets/products/sku-005.jpg"},
+  {"sku": "sku-006", "category": "Juice", "name": "Maizena Vainilla", "price": 4.50, "img_url": "../assets/products/sku-006.jpg"},
+  {"sku": "sku-007", "category": "Juice", "name": "Maizena Chocolate", "price": 4.50, "img_url": "../assets/products/sku-007.jpg"},
+  {"sku": "sku-008", "category": "Baby", "name": "Pañales Pampers", "price": 34.50, "img_url": "../assets/products/sku-008.jpg"}
+]
