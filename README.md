@@ -9,10 +9,10 @@ git clone https://github.com/maosanch/turbodega-pos.git
 ```
 curl -sL https://deb.nodesource.com/setup_10.x | sudo bash -
 node --version
-npm —version 
+npm —version
 ```
 
-### 3. Install Angular CLI (via nom)
+### 3. Install Angular CLI (via npm)
 ```
 sudo npm install -g @angular/cli
 ```
