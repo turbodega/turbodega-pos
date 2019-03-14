@@ -22,7 +22,7 @@ sudo npm install -g @angular/cli
 npm install --save @angular/material @angular/cdk @angular/animations
 ```
 
-#### 5. Install app dependencies
+### 5. Install app dependencies
 ```
 npm install
 ```
