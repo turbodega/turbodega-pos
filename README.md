@@ -1,5 +1,44 @@
 # TurbodegaPosNg
+## Installation Instructions
+### 1. Clone repo
+```
+git clone https://github.com/maosanch/turbodega-pos.git
+```
 
+### 2. Install NodeJS and NPM (Node Package Manager)
+```
+curl -sL https://deb.nodesource.com/setup_10.x | sudo bash -
+node --version
+npm —version 
+```
+
+### 3. Install Angular CLI (via nom)
+```
+sudo npm install -g @angular/cli
+```
+
+### 4. Install Angular Material (via npm)
+```
+npm install --save @angular/material @angular/cdk @angular/animations
+```
+
+#### 5. Install app dependencies
+```
+npm install
+```
+
+### 6. Serve and test app
+```
+sg serve
+Test in browser: http://localhost:4200
+Stop app: Ctl + C
+```
+
+### References
+https://angular.io
+https://material.angular.io/
+
+# Angular Development
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 7.3.3.
 
 ## Development server
